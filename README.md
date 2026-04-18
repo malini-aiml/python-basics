@@ -1,2 +1,2 @@
 # python-basics
-Python and ML practice projects
+spam-email-classifier
